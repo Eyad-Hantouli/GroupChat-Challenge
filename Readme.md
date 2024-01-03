@@ -1,1 +1,1 @@
-# Waiting for pull requist
+# Observer pattern training app
